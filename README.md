@@ -25,4 +25,5 @@ Parameters:
 **Example**
 ```
 $ marathon run photoOrganize.swift input output christmas
+$ marathon run https://github.com/dougdiego/photoOrganize.git input output christmas
 ```
